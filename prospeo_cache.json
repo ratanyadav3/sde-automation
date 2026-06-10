@@ -1,0 +1,40 @@
+{
+  "stripecommunications.com": [
+    {
+      "name": "Juliet Simpson",
+      "title": "Founder & CEO",
+      "email": "juliet.simpson@stripecommunications.com",
+      "linkedin": "https://www.linkedin.com/in/juliet-simpson-7898845",
+      "seniority": "C-Suite"
+    }
+  ],
+  "stripeolt.com": [
+    {
+      "name": "Chef Nasir",
+      "title": "Chief Executive Officer",
+      "email": null,
+      "linkedin": "https://www.linkedin.com/in/chef-nasir-6a949a2b9",
+      "seniority": "C-Suite"
+    }
+  ],
+  "recko.io": {
+    "results": [],
+    "cachedAt": 1781101513525
+  },
+  "redstripebeer.com": {
+    "results": [],
+    "cachedAt": 1781101517337
+  },
+  "stripepartners.com": {
+    "results": [
+      {
+        "name": "Tom Rowley",
+        "title": "Co-Founder and CEO",
+        "email": "tom.rowley@stripepartners.com",
+        "linkedin": "https://www.linkedin.com/in/tom-rowley-6648a15",
+        "seniority": "C-Suite"
+      }
+    ],
+    "cachedAt": 1781101528686
+  }
+}
